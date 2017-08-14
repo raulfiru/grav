@@ -19,7 +19,7 @@ Congratulations! You have installed the **Base Grav Package** that provides a **
 
 To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
 
-### Create a New Page
+### Create a New Page (did that)
 
 Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
 
@@ -35,5 +35,7 @@ Creating a new page is a simple affair in **Grav**.  Simply follow these simple 
 
 3. Save this file in the `user/pages/02.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
 4. That is it! Reload your browser to see your new page in the menu.
+
+[the new paege](about/)
 
 ! NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
